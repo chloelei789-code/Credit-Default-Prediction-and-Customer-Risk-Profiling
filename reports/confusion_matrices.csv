@@ -1,0 +1,3 @@
+Model,True Negative,False Positive,False Negative,True Positive
+Logistic Regression,3769,904,577,750
+Random Forest,4418,255,947,380

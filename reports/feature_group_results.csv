@@ -1,0 +1,5 @@
+Feature Set,ROC-AUC,Delta ROC-AUC,F1
+Demographic + Credit,0.6029,,0.3825
++ Repayment Behavior,0.7413,0.1384,0.5005
++ Billing Behavior,0.7415,0.0002,0.5007
++ Payment Behavior,0.7505,0.0090,0.5032
